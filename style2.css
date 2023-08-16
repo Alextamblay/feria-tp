@@ -35,6 +35,15 @@ body {
     font-weight: 800;
 }
 
+.img2{
+    width: 50px;
+    height: 50px;
+}
+.img1{
+    width: 10px;
+    height: 10px;
+}
+
 .menu .navbar ul li {
     position: relative;
     float: left;
@@ -126,7 +135,7 @@ body {
     width: 50%;
 }
 .header-img img{
-    width:150px ;
+    width:300px ;
 }
 
 .info{
@@ -176,7 +185,7 @@ body {
     width: 50%;
 }
 .nosotros-img img{
-    width: 650px;
+    width: 550px;
 }
 .nosotros-txt {
     width: 50%;
