@@ -114,7 +114,7 @@ body {
 
 .btn-1{
     display: inline-block;
-    background-color: #FF9F0D;
+    background-color: #0daaff;
     padding: 30px 30px;
     border-radius: 25px;
     color: white;
@@ -123,12 +123,12 @@ body {
 }
 
 .btn-1:hover{
-    background-color: #EE9003;
+    background-color: #0daaff;
 }
 
 .btn-2{
     display: inline-block;
-    background-color: #FF9F0D;
+    background-color: #0daaff;
     padding: 10px 20px;
     border-radius: 25px;
     color: white;
